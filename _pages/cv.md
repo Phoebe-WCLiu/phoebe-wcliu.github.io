@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Zooarchaeology (2022-2025) University of Sheffield
+* MSc in Osteoarchaeology (2020-2021) University of Sheffield
+* BSocSc (Hons) in Sociology, Minor in Psychology (2014-2018) Hong Kong Baptist University
 
 Work experience
 ======
