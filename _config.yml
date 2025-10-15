@@ -23,7 +23,7 @@ repository               : "phoebe-wcliu/phoebe-wcliu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pfig-1.webp"
+  avatar           : "pfig-1.png"
   name             : "Phoebe Liu"
   pronouns         : # example: "she/her"  
   bio              : "I’m a zooarchaeologist studying the animal skeletal evidence of human–animal relationships to better understand past economies and lifeways."
