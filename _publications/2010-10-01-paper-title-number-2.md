@@ -6,8 +6,8 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2025-06-01
 venue: 'International Journal of Paleopathology, 49, pp.12–20'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+slidesurl: 'http://phoebe-wcliu.github.io/files/slides2.pdf'
+paperurl: 'http://phoebe-wcliu.github.io/files/paper2.pdf'
 bibtexurl: 'http://phoebe-wcliu.github.io/files/spavin.bib'
 citation: 'Liu, P., Salvagno, L., Albarella, U. (2025). “Spavin in modern and archaeological cattle: Reassessing its association with traction use”. International Journal of Paleopathology, 49, pp.12–20. DOI: 10.1016/j.ijpp.2025.02.003.'
 ---
