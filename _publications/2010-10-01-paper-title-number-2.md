@@ -11,19 +11,20 @@ paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
-Objective
+Objective:
+
 To investigate the correlations of biological factors, including age, body size, and sex, with the occurrence of spavin, demonstrating that using spavin to indicate cattle use for draught work from archaeological sites is questionable.
 
-Materials
+Materials:
 Metatarsals from 126 modern non-draught cattle kept under similar conditions, along with published data of 18 draught oxen.
 
-Results
+Results:
 This study demonstrates that spavin strongly correlates with age, body weight, and to some extent, restricted movement, with no observed correlation with sex in non-draught cattle. No significant difference in spavin prevalence was found between the draught and non-draught groups.
 
-Conclusions
+Conclusions:
 Age, body weight, and potentially restricted movement, may partly explain the higher frequency of spavin observed in historic times compared to prehistory, reflecting changes in livestock management. The potential influence of traction on spavin should not be ignored, but this paper argues that the connection between spavin and draught use is primarily mediated by age and other factors.
 
-Significance
+Significance:
 This study presents the first systematic analysis of one of the most frequently described palaeopathology in cattle, suggesting that spavin should not be uncritically used to identify draught cattle.
 
 Limitation
