@@ -2,7 +2,7 @@
 title: "In search of draught cattle: An identification method"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2025-07-01-draught-title-cattle-method
 excerpt: '
 •This study presents biometric analyses of over 150 modern non-draught cattle and a smaller group of draught cattle.
 •The first phalanges demonstrate the highest balanced accuracy in distinguishing between draught and non-draught groups.
