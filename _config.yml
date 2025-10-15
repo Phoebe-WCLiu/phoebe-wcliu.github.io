@@ -24,13 +24,13 @@ repository               : "phoebe-wcliu/phoebe-wcliu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Phoebe Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "I’m a zooarchaeologist studying the animal skeletal evidence of human–animal relationships to better understand past economies and lifeways."
+  location         : "Sheffield, UK"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "phoebe.wcliu@gmail.com" 
 
   # Academic websites
   academia         : # URL
