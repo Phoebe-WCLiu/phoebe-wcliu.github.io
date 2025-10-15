@@ -9,8 +9,8 @@ excerpt: '
 •The biometric approach proposed in this study offers an effective tool for advancing our understanding of draught cattle use in past societies.'
 date: 2025-07-01
 venue: 'Journal of Archaeological Science, 179:106229'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+slidesurl: 'http://phoebe-wcliu.github.io/files/slides1.pdf'
+paperurl: 'http://phoebe-wcliu.github.io/files/paper1.pdf'
 bibtexurl: 'http://phoebe-wcliu.github.io/files/method.bib'
 citation: 'Liu, P., Salvagno, L.,Wimmer, B., Albarella, U. (2025). “In search of draught cattle: An identification method”. Journal of Archaeological Science, 179:106229. DOI: 10.1016/j.jas.2025.106229'
 ---
