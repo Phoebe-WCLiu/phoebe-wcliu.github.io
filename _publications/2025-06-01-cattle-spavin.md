@@ -2,7 +2,7 @@
 title: "Spavin in modern and archaeological cattle: Reassessing its association with traction use"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2025-06-01-cattle-spavin
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2025-06-01
 venue: 'International Journal of Paleopathology, 49, pp.12–20'
