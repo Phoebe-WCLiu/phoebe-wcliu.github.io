@@ -3,7 +3,7 @@ title: "Spavin in modern and archaeological cattle: Reassessing its association 
 collection: publications
 category: manuscripts
 permalink: /publication/2025-06-01-cattle-spavin
-abstract:'abstract'
+abstract: 'abstract'
 date: 2025-06-01
 venue: 'International Journal of Paleopathology, 49, pp.12–20'
 slidesurl: 'http://phoebe-wcliu.github.io/files/slides2.pdf'
