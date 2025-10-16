@@ -3,31 +3,7 @@ title: "Spavin in modern and archaeological cattle: Reassessing its association 
 collection: publications
 category: manuscripts
 permalink: /publication/2025-06-01-cattle-spavin
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2025-06-01
-venue: 'International Journal of Paleopathology, 49, pp.12–20'
-slidesurl: 'http://phoebe-wcliu.github.io/files/slides2.pdf'
-paperurl: 'http://phoebe-wcliu.github.io/files/2025_Spavin.pdf'
-bibtexurl: 'http://phoebe-wcliu.github.io/files/spavin.bib'
-onlineurl: 'https://www.sciencedirect.com/science/article/pii/S187998172500004X'
-citation: 'Liu, P., Salvagno, L., Albarella, U. (2025). “Spavin in modern and archaeological cattle: Reassessing its association with traction use”. International Journal of Paleopathology, 49, pp.12–20. DOI: 10.1016/j.ijpp.2025.02.003.'
----
-<details>
-
-<summary>Tips for collapsed sections</summary>
-
-### You can add a header
-
-You can add text within a collapsed section.
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
-
-</details>
-Objective:
+abstract: 'Objective:
 
 To investigate the correlations of biological factors, including age, body size, and sex, with the occurrence of spavin, demonstrating that using spavin to indicate cattle use for draught work from archaeological sites is questionable.
 
@@ -53,4 +29,28 @@ We have not found a significant relationship between sex and spavin occurrence, 
 
 Suggestions for further research:
 
-Sexing pathological metatarsals from archaeological sites in future works could contribute to clarifying the causes of spavin.
+Sexing pathological metatarsals from archaeological sites in future works could contribute to clarifying the causes of spavin.'
+date: 2025-06-01
+venue: 'International Journal of Paleopathology, 49, pp.12–20'
+slidesurl: 'http://phoebe-wcliu.github.io/files/slides2.pdf'
+paperurl: 'http://phoebe-wcliu.github.io/files/2025_Spavin.pdf'
+bibtexurl: 'http://phoebe-wcliu.github.io/files/spavin.bib'
+onlineurl: 'https://www.sciencedirect.com/science/article/pii/S187998172500004X'
+citation: 'Liu, P., Salvagno, L., Albarella, U. (2025). “Spavin in modern and archaeological cattle: Reassessing its association with traction use”. International Journal of Paleopathology, 49, pp.12–20. DOI: 10.1016/j.ijpp.2025.02.003.'
+---
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section.
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
+
