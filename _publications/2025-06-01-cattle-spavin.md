@@ -3,8 +3,7 @@ title: "Spavin in modern and archaeological cattle: Reassessing its association 
 collection: publications
 category: manuscripts
 permalink: /publication/2025-06-01-cattle-spavin
----
-abstract: |
+abstract:
   ## Objective
   To investigate the correlations of biological factors, including age, body size, and sex, with the occurrence of spavin, demonstrating that using spavin to indicate cattle use for draught work from archaeological sites is questionable.
 
@@ -25,7 +24,6 @@ abstract: |
 
   ## Suggestions for further research
   Sexing pathological metatarsals from archaeological sites in future works could contribute to clarifying the causes of spavin.
----
 
 Limitation:
 
