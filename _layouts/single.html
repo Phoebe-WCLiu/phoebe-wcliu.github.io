@@ -47,10 +47,10 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
 
-         {% if post.abstract %}
+         {% if post.excerpt %}
   <details>
     <summary>Abstract</summary>
-    <p>{{ post.abstract | markdownify }}</p>  <!-- Use markdownify if your excerpt has Markdown formatting -->
+    <p>{{ post.excerpt | markdownify }}</p>  <!-- Use markdownify if your excerpt has Markdown formatting -->
   </details>
 {% endif %}
 
