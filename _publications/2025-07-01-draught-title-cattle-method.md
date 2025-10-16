@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-07-01-draught-title-cattle-method
 excerpt: # 
 venue: 'Journal of Archaeological Science, 179:106229'
-slidesurl: 'http://phoebe-wcliu.github.io/files/slides1.pdf'
+slidesurl: # 
 paperurl: 'http://phoebe-wcliu.github.io/files/2025_Biometry.pdf'
 bibtexurl: 'http://phoebe-wcliu.github.io/files/method.bib'
 onlineurl: 'https://www.sciencedirect.com/science/article/pii/S0305440325000780'
