@@ -3,7 +3,7 @@ title: "In search of draught cattle: An identification method"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-07-01-draught-title-cattle-method
-excerpt:
+excerpt: # 
 venue: 'Journal of Archaeological Science, 179:106229'
 slidesurl: 'http://phoebe-wcliu.github.io/files/slides1.pdf'
 paperurl: 'http://phoebe-wcliu.github.io/files/2025_Biometry.pdf'
