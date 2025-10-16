@@ -6,7 +6,7 @@ permalink: /publication/2025-06-01-cattle-spavin
 excerpt: # 
 date: 2025-06-01
 venue: 'International Journal of Paleopathology, 49, pp.12–20'
-slidesurl: 'http://phoebe-wcliu.github.io/files/slides2.pdf'
+slidesurl: # 
 paperurl: 'http://phoebe-wcliu.github.io/files/2025_Spavin.pdf'
 bibtexurl: 'http://phoebe-wcliu.github.io/files/spavin.bib'
 onlineurl: 'https://www.sciencedirect.com/science/article/pii/S187998172500004X'
